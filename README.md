@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a unity developer and I like joining music and VR. I am currently a junior developer at Fivestone Studios working on AR, Large Touch Displays, and 3D spatial mapping. 
+
 <!--
 **robertncoomber/robertncoomber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
