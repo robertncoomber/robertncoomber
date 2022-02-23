@@ -1,5 +1,5 @@
-### Hi 👋
+### Robert Coomber 
 
-I bring realtime 3D visuals and music together with immersive platforms. I co-founded 4th Floor which does exactly that. 
+Working at [4th Floor](https://www.4th-floor.com/) bring immersive audio, 3D visuals, VR and friends together. 
 
 📧: Robert@4th-floor.com
